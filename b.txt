@@ -1,0 +1,2 @@
+this is file b line 1
+add 1 line for b
